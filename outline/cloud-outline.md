@@ -7,6 +7,8 @@ This playbooks contains both a cloud identity 101 and a journey map used by agen
 ## Executive Summary
 About a page that summarizes the playbook.
 
+## Introduction
+### Audience
 ### Key Terms
 - **Cloud Identity** - 
 - **Identity as a Service** - 
